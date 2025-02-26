@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 안진용, 공옥례
-- 리뷰어 : 이하은, 류지호
+- 코더 : 공옥례, 안진용
+- 리뷰어 : 이하은
 
 
 # PRT(Peer Review Template)
@@ -33,20 +33,15 @@
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        - 작업시간 타이머와 휴식시간 타이머을 나눠서 코딩하는 것 보기 좋았습니다!
+        - ![image](https://github.com/user-attachments/assets/2872820f-a3cb-4ce1-a3af-86d309fbad85)
+        - ![image](https://github.com/user-attachments/assets/20b1a909-b2db-4995-bd0b-06e905adfdac)
+
 
 
 # 회고(참고 링크 및 코드 개선)
 ```
-4회 작업을 완료한 후 긴 휴식을 제공하는 로직을 간결하게 잘 구현해주셨다고 느꼈습니다.
-'분'단위로 작동하도록 코드를 작성하셔서, 4번째 사이클까지 타이머가 작동하는 것을 리뷰어로서 끝까지 확인하지 못한 점이 아쉬웠습니다.
-![image](https://github.com/user-attachments/assets/197e8fdb-03bb-45ee-8857-0ee7da88e7c1)
-
-작업 타이머와 휴식 타이머를 잘 분리하셨습니다.
-![image](https://github.com/user-attachments/assets/8f241123-4ef7-46c8-86d9-16600aa8a518)
-![image](https://github.com/user-attachments/assets/f1f9f0d7-55b3-4339-892d-e2e73389028d)
-타이머 진행상황도 아이콘과 함께 깔끔하게 잘 보이도록 구현하셨습니다.
-1초 단위로 Timer.periodic을 실행하도록 수정한 뒤에 타이머 작동을 보고 싶습니다.
-4번째 사이클이 모두 돌고나서 정지될지, 다시 1번째 작업시간(25min)으로 돌아갈지, 짧은휴식시간 혹은 긴휴식시간으로 잘못 돌아갈지 확인하고 싶습니다.
-![image](https://github.com/user-attachments/assets/bc2bcb0a-5e55-4507-8d59-04fb694eefc6)
-
+이하은 :
+    제가 코드를 수정하면서 겪었던 시행착오를 마찬가지로 겪었다는 것을 보고 역시 플러터가 어렵다는 것을 다시 깨닫게 되었습니다.
+인공지능의 힘을 빌려 문제를 해결할 수 있다는 점은 좋은 시도이라고 생각하며 너무 의존하지만 않으면 좋은 공부 방법이 될 수 있다고 생각합니다. 
 ```
