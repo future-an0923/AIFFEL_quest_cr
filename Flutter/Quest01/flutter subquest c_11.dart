@@ -38,7 +38,7 @@ class PomodoroTimer {
           _startBreakTimer(shortBreakTime); // 짧은 휴식 시작
         }
       } else {
-        print("⌛ 작업 중: $minutesLeft분 남음");
+        print("작업 중: $minutesLeft분 남음");
         minutesLeft--; // 매분 감소
       }
     });
