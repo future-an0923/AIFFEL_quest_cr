@@ -1,49 +1,52 @@
-# 달려라 런냥이 앱 분석 및 역설계 하기        
+# 토스 앱 분석 및 홈, 혜택, 토스쇼핑 화면 구현해보기    
 
 ## 앱 정보
 
 - **앱 이름** 
 
-  - 달려라 런냥이    
+  - 토스 
 
 - **시장(마켓)**  
 
-  - 전 세계 런닝 앱 시장 규모는 5억 6200만 달러, 그 중 국내 스포츠 레져 시장 중 러닝 시장 규모는 1조 이상의 시장성을 가짐    
+  iOS App Store, Google Play Store  
 
 - **타겟**  
 
-  - 코로나로 체중이 증가된 20~40대 남,여          
+  - 금융 서비스를 간편하게 이용하고자 하는 일반 사용자
+  - 20-30대 젊은 층을 중심으로 폭넓은 연령대의 사용자  
 
 
 
 ## 앱 구조도
 
-![AI-UX-4-2-08 original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/1a237b3c-912b-4763-9f13-22fe714549dc)
+![구조계층](https://github.com/user-attachments/assets/dae88451-f8da-4343-94b4-31e568d9b1b7)
 
 
 
-## 앱 와이어프레임 (사용 툴 : 0000)
 
-![AI-UX-4-2-11_j7hKLsb original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/538223ca-bc1c-4a0a-a4f6-17f27fc9a6f4)
+## 앱 와이어프레임 (사용 툴 : 그림판)
+
+![앱 와이어프레임](https://github.com/user-attachments/assets/d6ef7f9f-ed4d-4fec-a5c5-e31c51c708c8)
 
 
-## 프로토타이핑 (사용 툴 : 0000)
 
-![AI-UX-4-2-13 original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/276a76a9-dadc-47c0-a9d3-169e7c033693)
+## 프로토타이핑 (사용 툴 : 마블앱)
+
+![프로토타입](https://github.com/user-attachments/assets/15f0484e-bf11-43b4-a935-50b507669065)
+
 
 
 
 ## 페이지 구현
-1. main.dart - 메인 화면으로 기본적인 구성으로만 작성 되어 있습니다.
-2. loading.dart - 로딩페이지
-3. mypage.dart - 나의페이지
-4. my_location.dart - 위치정보를 포함한 런닝 기록
-5. run_test.dart - 런냥이 테스트 페이지
+1. toss_homescreen.dart - 홈
+2. toss_benefitscreen.dart - 혜택
+3. toss_shoppingscreen.dart - 토스쇼핑
+
 
 
 
 ## 구현영상 
-https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/c7f3c3ae-5a26-41ac-bfb0-9cf11bbd074b
+
 
 
 
