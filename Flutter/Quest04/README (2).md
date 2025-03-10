@@ -47,6 +47,7 @@
 
 ## 구현영상 
 
+![구현영상](https://github.com/user-attachments/assets/de978f04-7897-4300-b17f-aef02dd019aa)
 
 
 
