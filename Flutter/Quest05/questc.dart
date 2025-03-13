@@ -128,3 +128,7 @@ class _MyHomePageState extends State<MyHomePage> {
 //     result = decode_predictions(y_preds, top=1)
 //     result = {"predicted_label": str(result[0][0][1]), "prediction_score": str(result[0][0][2])}
 //     return result
+
+// 회고:
+// 변종현 : 의욕이 많은 분과 작업을 해서 많은 도움을 받았다.
+// 안진용 : 여러 시도들을 했지만 따로 분리하지 못하고 종현님께서 앱을 맡아주셔서 수월했다.
