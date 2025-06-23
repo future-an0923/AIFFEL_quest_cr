@@ -55,9 +55,9 @@
 
 ---
 
-## 과정에서 경험한 Tech Stack
+##  경험 Tech Stack
 
-### 🚀 프로그래밍 언어 & 프레임워크
+### 프로그래밍 언어 & 프레임워크
 - **Python** – 데이터 분석 및 AI 모델 개발
 - **Dart** – Flutter 개발 언어
 - **Flutter** – 크로스플랫폼 앱 개발 (Frontend)
